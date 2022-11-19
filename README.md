@@ -24,4 +24,5 @@ jednak staje się ona od tej pory identyfikatorem spotkania, i musi zostać zapa
 
 ### Uwagi
 - Identyfikator spotkania: "parafiakuchary2022rzutnik" powinien być co jakiś czas zmieniany w celu uniknięcia dostania się niepowołanych osób.
+- Gdy chcemy streamować obraz z kamerki komputera, albo telefonu, to musi być on jedynym (nie licząc Raspberry PI) uczestnikiem spotkania.
 
